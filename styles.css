@@ -1,0 +1,75 @@
+.landing_page {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    overflow-y: scroll;
+    background: #ebebeb;
+    
+}
+
+.main_image{
+    position: absolute;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    height: 389px;
+    border-radius: 0px;
+
+}
+
+.logo {
+    position: absolute;
+    height: 20px;
+    width: 128px;
+    left: 166px;
+    top: 35px;
+    border-radius: 0px;
+
+}
+
+#About {
+    position: absolute;
+    height: 17px;
+    width: 88px;
+    left: 987px;
+    top: 44px;
+    border-radius: nullpx;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+
+#Discover {
+    position: absolute;
+    width: 88px;
+    height: 17px;
+    left: 1105px;
+    top: 44px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+#Get_Started {
+    position: absolute;
+    width: 121px;
+    height: 17px;
+    left: 1223px;
+    top: 44px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}

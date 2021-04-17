@@ -73,3 +73,116 @@
     line-height: 23px;
     color: #FFFFFF;
 }
+
+.logo_mastercraft {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 338px;
+    top: -20px;
+}
+
+.About_mastercraft {
+    position: absolute;
+    width: 728px;
+    height: 270px;
+    left: 354px;
+    top: 283px;
+
+    background: #FFFFFF;
+    box-shadow: -5px 8px 4px
+              rgba(0, 0, 0, 0.25), 
+              5px 0px 4px 2px
+              rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+#mastercraft {
+    position: absolute;
+    width: 637px;
+    height: 26px;
+    left: 52px;
+    top: 20px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#description {
+    position: absolute;
+    width: 637px;
+    height: 36px;
+    left: 47px;
+    top: 83px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+color: #A7A7A7;
+}
+
+.big_button {
+    position: absolute;
+    width: 242px;
+    height: 56px;
+    left: 52px;
+    top: 166px;
+
+    background: #3CB4AC;
+    border-radius: 35px;
+}
+
+#button_description {
+    position: absolute;
+    width: 152px;
+    height: 23px;
+    left: 45px;
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.bookmark_button {
+    position: absolute;
+    width: 179px;
+    height: 56px;
+    left: 499px;
+    top: 166px;
+    
+    background: #a7a7a7;
+    border-radius: 35px;
+}
+
+#bookmark {
+    position: absolute;
+    width: 94px;
+    height: 18px;
+    left: 68px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #737373;
+}

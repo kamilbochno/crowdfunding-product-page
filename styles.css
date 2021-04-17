@@ -82,7 +82,7 @@
     top: -20px;
 }
 
-.About_mastercraft {
+.about_mastercraft {
     position: absolute;
     width: 728px;
     height: 270px;
@@ -185,4 +185,161 @@ color: #A7A7A7;
     text-align: center;
 
     color: #737373;
+}
+
+.stats_container {
+    position: absolute;
+    width: 728px;
+    height: 185px;
+    left: 356px;
+    top: 593px;
+
+    background: #FFFFFF;
+    box-shadow: -5px 8px 4px rgba(0, 0, 0, 0.25), 5px 0px 4px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+#money {
+    position: absolute;
+    width: 97px;
+    height: 32px;
+    left: 50px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+    
+    text-align: center;
+    
+
+}
+
+#money_description {
+    position: absolute;
+    width: 114px;
+    height: 12px;
+    left: 50px;
+    top: 57px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #a7a7a7;
+}
+
+#line1 {
+    position: absolute;
+    width: 74px;
+    height: 0px;
+    left: 247px;
+    top: 40px;
+
+    border: 1px solid #A7A7A7;
+    transform: rotate(90deg);
+}
+#number_of_backers {
+    position: absolute;
+    width: 66px;
+    height: 32px;
+    left: 331px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+    text-align: center;
+}
+
+#number_description {
+    position: absolute;
+    width: 75px;
+    height: 12px;
+    left: 331px;
+    top: 57px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #A7A7A7;
+}
+
+
+#line2 {
+    position: absolute;
+    width: 74px;
+    height: 0px;
+    left: 497px;
+    top: 40px;
+
+    border: 1px solid #A7A7A7;
+    transform: rotate(90deg);
+}
+
+#days {
+    position: absolute;
+    width: 31px;
+    height: 25px;
+    left: 581px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+    text-align: center;
+}
+
+
+#days_description {
+    position: absolute;
+    width: 50px;
+    height: 12px;
+    left: 581px;
+    top: 57px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #A7A7A7;
+}
+
+.filling {
+    position: absolute;
+    width: 536px;
+    height: 14px;
+    left: 52px;
+    top: 119px;
+
+    background: #3CB4AC;
+    border-radius: 7px;
+}
+
+#rest {
+    position: absolute;
+    width: 86px;
+    height: 14px;
+    left: 581px;
+    top: 119px;
+
+    background: rgba(167, 167, 167, 0.7);
+    opacity: 0.3;
+    border-radius: 0px 7px 7px 0px;
 }

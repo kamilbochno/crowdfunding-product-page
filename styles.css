@@ -343,3 +343,346 @@ color: #A7A7A7;
     opacity: 0.3;
     border-radius: 0px 7px 7px 0px;
 }
+
+.about_the_project {
+    position: absolute;
+    width: 728px;
+    height: 900px;
+    left: 356px;
+    top: 818px;
+
+    background: #FFFFFF;
+    box-shadow: -5px 8px 4px rgba(0, 0, 0, 0.25), 5px 0px 4px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+#about_project {
+    position: absolute;
+    width: 220px;
+    height: 32px;
+    left: 40px;
+    top: 28px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+
+    text-align: center;
+}
+
+#about_project_description {
+    position: absolute;
+    width: 616px;
+    height: 45px;
+    left: 56px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #A7A7A7;
+}
+
+#about_project_description2 {
+    position: absolute;
+    width: 603px;
+    height: 30px;
+    left: 56px;
+    top: 143px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #a7a7a7;
+}
+
+.offer1 {
+    position: absolute;
+    width: 650px;
+    height: 185px;
+    left: 39px;
+    top: 242px;
+
+    background: #FFFFFF;
+    border: 1px solid #A7A7A7;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.item_description {
+    position: absolute;
+    width: 604px;
+    height: 31px;
+    left: 17px;
+    top: 68px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #A7A7A7;
+}
+
+.pledge_price {
+        position: absolute;
+        width: 114px;
+        height: 15px;
+        left: 507px;
+        top: 29px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+    
+        color: #3CB4AC;
+    
+}
+
+.number_left {
+    position: absolute;
+    width: 46px;
+    height: 15px;
+    left: 17px;
+    top: 120px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 15px;
+}
+
+.left {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    left: 65px;
+    top: 136px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.reward {
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 30px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+#title1 {
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 17px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+
+#reward1_button {
+    position: absolute;
+    width: 134px;
+    height: 39px;
+    left: 482px;
+    top: 124px;
+
+    background: #3CB4AC;
+    border-radius: 20px;
+}
+
+.offer2 {
+    position: absolute;
+    width: 650px;
+    height: 185px;
+    left: 0px;
+    top: 200px;
+
+    background: #FFFFFF;
+    border: 1px solid #A7A7A7;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#title2 {
+    position: absolute;
+    width: 188px;
+    height: 14px;
+    left: 17px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+#reward2_button {
+    position: absolute;
+    width: 134px;
+    height: 39px;
+    left: 482px;
+    top: 121px;
+
+    background: #3CB4AC;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+.offer3 {
+    position: absolute;
+    width: 650px;
+    height: 185px;
+    left: 0px;
+    top: 400px;
+
+    background: #FFFFFF;
+    border: 1px solid #A7A7A7;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#title3 {
+    position: absolute;
+    width: 250px;
+    height: 14px;
+    left: 17px;
+    top: 10px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+
+    color: hsla(0, 0%, 65%, 1);
+
+}
+
+#pledge_price3 {
+    position: absolute;
+    width: 114px;
+    height: 15px;
+    left: 507px;
+    top: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: rgba(60, 180, 172, 0.5);
+}
+
+#mahogany_description{
+    position: absolute;
+    width: 604px;
+    height: 31px;
+    left: 17px;
+    top: 68px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: rgba(167, 167, 167, 0.4);
+}
+
+#number_left3 {
+    position: absolute;
+    width: 46px;
+    height: 15px;
+    left: 17px;
+    top: 120px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 15px;
+
+    color: hsla(0, 0%, 65%, 1);
+
+    
+}
+
+#left3 {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    left: 50px;
+    top: 136px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: hsla(0, 0%, 65%, 1);
+
+}
+
+#reward3_button {
+    position: absolute;
+    width: 134px;
+    height: 39px;
+    left: 482px;
+    top: 121px;
+
+    background:rgba(167, 167, 167, 0.6);
+    border-radius: 20px;
+}
+
+#reward3 {
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 30px;
+    top: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+
+}

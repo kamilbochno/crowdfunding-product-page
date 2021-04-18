@@ -1,10 +1,11 @@
 .landing_page {
     position: relative;
     width: 1440px;
-    height: 1024px;
-    overflow-y: scroll;
+    height: 1780px;
+    border-radius: 0px;
+
     background: #ebebeb;
-    
+
 }
 
 .main_image{
@@ -142,6 +143,11 @@ color: #A7A7A7;
     border-radius: 35px;
 }
 
+.big_button:hover {
+    background: hsl(176, 72%, 28%);
+    cursor: pointer;
+}
+
 #button_description {
     position: absolute;
     width: 152px;
@@ -168,6 +174,10 @@ color: #A7A7A7;
     
     background: #a7a7a7;
     border-radius: 35px;
+}
+
+.bookmark_button:hover {
+    cursor: pointer;
 }
 
 #bookmark {
@@ -356,6 +366,7 @@ color: #A7A7A7;
     border-radius: 20px;
 }
 
+
 #about_project {
     position: absolute;
     width: 220px;
@@ -520,6 +531,11 @@ color: #A7A7A7;
     border-radius: 20px;
 }
 
+#reward1_button:hover {
+    background: hsl(176, 72%, 28%);
+    cursor: pointer;
+}
+
 .offer2 {
     position: absolute;
     width: 650px;
@@ -556,6 +572,11 @@ color: #A7A7A7;
 
     background: #3CB4AC;
     border-radius: 20px;
+}
+
+#reward2_button:hover {
+    background: hsl(176, 72%, 28%);
+    cursor: pointer;
 }
 
 

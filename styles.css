@@ -1,12 +1,13 @@
-.landing_page {
+html {
     position: relative;
     width: 1440px;
     height: 1780px;
     border-radius: 0px;
 
     background: #ebebeb;
-
 }
+
+
 
 .main_image{
     position: absolute;
@@ -45,6 +46,11 @@
 
 }
 
+#About:hover {
+    color:hsla(0, 0%, 30%, 1);
+    cursor: pointer;
+}
+
 #Discover {
     position: absolute;
     width: 88px;
@@ -60,6 +66,11 @@
     color: #FFFFFF;
 }
 
+#Discover:hover {
+    color:hsla(0, 0%, 30%, 1);
+    cursor: pointer;
+}
+
 #Get_Started {
     position: absolute;
     width: 121px;
@@ -73,6 +84,11 @@
     font-size: 20px;
     line-height: 23px;
     color: #FFFFFF;
+}
+
+#Get_Started:hover {
+    color:hsla(0, 0%, 30%, 1);
+    cursor: pointer;
 }
 
 .logo_mastercraft {

@@ -18,7 +18,8 @@
       
     <header>
       <img class="main_image" src="images/image-hero-desktop.jpg" alt="Main image">
-      <img class="logo" src="images/logo.svg" alt="je">
+      <a href="index.html"><img class="logo" src="images/logo.svg" alt="je"></a>
+      
       <nav id="About">About</nav>
       <nav id="Discover">Discover</nav>
       <nav id="Get_Started">Get Started</nav>
@@ -33,8 +34,11 @@
   <div class="big_button">
      <p id="button_description"> Back this project </p>
   </div>
-  <div class="bookmark_button"> <img src="images/icon-bookmark.svg" alt="Bookmark icon">
-    <p id="bookmark"> Bookmark</p>
+  <div id="b_button" class="bookmark_button" onclick="bookmarked()"> <img src="images/icon-bookmark.svg" alt="Bookmark icon">
+    <p id="bookmark">Bookmark</p>
+  </div>
+  <div id="bk_button" class="bookmarked_button" style="display: none;" onclick="bookmark()"> <img src="images/icon-bookmarked.svg" alt="Bookmark icon">
+    <p id="bookmarked">Bookmarked</p>
   </div>
   </div>
   
@@ -154,5 +158,6 @@
   -->
 
   </main>
+  <script src="script.js"></script>
 </body>
 </html>
